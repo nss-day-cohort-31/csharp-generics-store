@@ -30,6 +30,22 @@ namespace Store
 
             CellPhone anotherPhone = phoneShop.Sell("Razor", 2);
             Console.WriteLine($"I bought a {anotherPhone.Name}");
+
+
+
+            CheeseBasketShop basketShop = new CheeseBasketShop();
+            Basket<Cheese> cheeseBasket = new Basket<Cheese>();
+            cheeseBasket.Items.Add(gouda);
+            basketShop.AddProductToSell("good basket", 123.45, cheeseBasket);
+            basketShop.Sell("good basket", 200.00);
+
+
+            Basket<string> stringBasket = new Basket<string>();
+            Basket<DateTime> dtBasket = new Basket<DateTime>();
+            Basket<Basket<bool>> bbb = new Basket<Basket<bool>>();
+
+            Basket<IShop<Basket<CellPhone>>> what = 
+                new Basket<IShop<Basket<CellPhone>>>();
         }
     }
 }
