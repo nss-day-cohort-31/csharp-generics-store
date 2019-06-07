@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tgwtg/programming/nss/cohort31/Store/Store.csproj": {}
+  },
+  "projects": {
+    "/home/tgwtg/programming/nss/cohort31/Store/Store.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tgwtg/programming/nss/cohort31/Store/Store.csproj",
+        "projectName": "Store",
+        "projectPath": "/home/tgwtg/programming/nss/cohort31/Store/Store.csproj",
+        "packagesPath": "/home/tgwtg/.nuget/packages/",
+        "outputPath": "/home/tgwtg/programming/nss/cohort31/Store/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/tgwtg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

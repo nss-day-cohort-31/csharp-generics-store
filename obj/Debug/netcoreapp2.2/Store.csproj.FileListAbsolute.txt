@@ -1,0 +1,11 @@
+/home/tgwtg/programming/nss/cohort31/Store/bin/Debug/netcoreapp2.2/Store.deps.json
+/home/tgwtg/programming/nss/cohort31/Store/bin/Debug/netcoreapp2.2/Store.runtimeconfig.json
+/home/tgwtg/programming/nss/cohort31/Store/bin/Debug/netcoreapp2.2/Store.runtimeconfig.dev.json
+/home/tgwtg/programming/nss/cohort31/Store/bin/Debug/netcoreapp2.2/Store.dll
+/home/tgwtg/programming/nss/cohort31/Store/bin/Debug/netcoreapp2.2/Store.pdb
+/home/tgwtg/programming/nss/cohort31/Store/obj/Debug/netcoreapp2.2/Store.csprojAssemblyReference.cache
+/home/tgwtg/programming/nss/cohort31/Store/obj/Debug/netcoreapp2.2/Store.csproj.CoreCompileInputs.cache
+/home/tgwtg/programming/nss/cohort31/Store/obj/Debug/netcoreapp2.2/Store.AssemblyInfoInputs.cache
+/home/tgwtg/programming/nss/cohort31/Store/obj/Debug/netcoreapp2.2/Store.AssemblyInfo.cs
+/home/tgwtg/programming/nss/cohort31/Store/obj/Debug/netcoreapp2.2/Store.dll
+/home/tgwtg/programming/nss/cohort31/Store/obj/Debug/netcoreapp2.2/Store.pdb
